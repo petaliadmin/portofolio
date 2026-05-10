@@ -1,0 +1,11 @@
+# robots.txt — Papa Babacar Ngor Senghor · Consultant IT
+# https://senghor-consulting.com/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://senghor-consulting.com/sitemap.xml
+
+# Crawl-delay (optionnel, respecté par certains bots)
+Crawl-delay: 1
